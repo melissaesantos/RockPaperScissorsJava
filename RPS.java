@@ -1,13 +1,3 @@
-/********************************************************************************
- * Name: Melissa Santos, Garrett Lam
- * ID: A16286089, A16423003
- * Email: mesantos@ucsd.edu, g1lam@ucsd.edu
- * Sources used: Tutors
- * 
- * This file contains the main method and initializes important instance varibles
- * needed for the game to function properly. It also stores another important
- * method that is needed to determine who wins.
- */
 
 import java.util.Scanner;
 

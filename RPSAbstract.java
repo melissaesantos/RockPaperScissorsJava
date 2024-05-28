@@ -1,8 +1,5 @@
 /********************************************************************************
- * Name: Melissa Santos, Garrett Lam
- * ID: A16286089, A16423003
- * Email: mesantos@ucsd.edu, g1lam@ucsd.edu
- * Sources used: Tutors
+ * 
  * 
  * This is an abstract class 
  * This file contains methods that check if the move is valid, generates
